@@ -1,0 +1,1 @@
+﻿SLACK_TOKEN = ''
