@@ -1,6 +1,3 @@
-[submodule "wunderlist_api"]
-	path = wunderlist_api
-	url = git@github.com:spin13/wunderlist_api.git
 [submodule "wunderlist"]
 	path = wunderlist
 	url = git@github.com:spin13/wunderlist_api.git
