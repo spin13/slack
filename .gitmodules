@@ -1,0 +1,3 @@
+[submodule "wunderlist"]
+	path = wunderlist
+	url = git@github.com:spin13/wunderlist_api.git
